@@ -250,7 +250,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "**这是网络错误**\n\n检查你的互联网连接是否正常，Mac App Store 是否被公司防火墙拦截。"
+            "value" : "**网络错误**\n\n检查你的互联网连接是否正常，Mac App Store 是否被公司防火墙拦截。"
           }
         }
       }
@@ -402,7 +402,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ 专业要求"
+            "value" : "需要 %@ 专业版"
           }
         }
       }
@@ -724,7 +724,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld 找到正在运行的应用程序"
+            "value" : "找到 %lld 个正在运行的应用程序"
           }
         }
       }
@@ -758,7 +758,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld代币"
+            "value" : "%lld tokens"
           }
         }
       }
@@ -882,7 +882,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "⚠️ 太多代币、"
+            "value" : "⚠️ 太多 token、"
           }
         }
       }
@@ -1508,7 +1508,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "活动提示"
+            "value" : "启用的 Prompt"
           }
         }
       }
@@ -1576,7 +1576,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加自定义听写提示，可自动转换听写文本。"
+            "value" : "添加自定义听写 Prompt，可自动转换听写文本。"
           }
         }
       }
@@ -1734,7 +1734,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在新的记录誊本中添加要自动替换的单词或短语。现在，系统会在任何地方替换文本（即使是在其他单词中），因此，例如，替换 \"你 \"也会替换 \"你的 \"中的相同字母。"
+            "value" : "在新的转录文本中添加要自动替换的单词或短语。现在，系统会在任何地方替换文本（即使是在其他单词中），因此，例如，替换 “you” 也会替换 “your” 中的相同字母。"
           }
         }
       }
@@ -1796,7 +1796,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加第一个全局替换词开始"
+            "value" : "添加第一个全局替换词以开始"
           }
         }
       }
@@ -1830,7 +1830,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加 OpenAI API 密钥以使用提示功能"
+            "value" : "添加 OpenAI API 密钥以使用 Prompt 功能"
           }
         }
       }
@@ -1864,7 +1864,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加自己的自定义提示，方便重复使用。点击图标可更改图标和颜色。"
+            "value" : "添加自己的自定义 Prompt，方便重复使用。点击图标可更改图标和颜色。"
           }
         }
       }
@@ -1954,7 +1954,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "调整成绩单字体大小"
+            "value" : "调整转录文本字体大小"
           }
         }
       }
@@ -2044,7 +2044,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "调整转录模式"
+            "value" : "调整转录模型"
           }
         }
       }
@@ -2100,7 +2100,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人工智能提示"
+            "value" : "AI Prompts"
           }
         }
       }
@@ -2218,7 +2218,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所有型号"
+            "value" : "所有模型"
           }
         }
       }
@@ -2342,7 +2342,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "始终下载可用的最高质量。"
+            "value" : "始终下载最高质量。"
           }
         }
       }
@@ -2370,7 +2370,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "永远领先"
+            "value" : "始终置顶"
           }
         }
       }
@@ -2460,7 +2460,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "始终将译文翻译成英语"
+            "value" : "始终将转录文本翻译成英语"
           }
         }
       }
@@ -2522,7 +2522,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人类学"
+            "value" : "Anthropic"
           }
         }
       }
@@ -2550,7 +2550,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人类应用程序接口密钥"
+            "value" : "Anthropic API"
           }
         }
       }
@@ -2584,7 +2584,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人类学模型"
+            "value" : "Anthropic 模型"
           }
         }
       }
@@ -2910,7 +2910,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "誊写完成后自动复制输出。"
+            "value" : "转录完成后自动复制文本。"
           }
         }
       }
@@ -3108,7 +3108,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "光束搜索"
+            "value" : "束搜索"
           }
         }
       }
@@ -3142,7 +3142,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "光束尺寸：%lld"
+            "value" : "束尺寸：%lld"
           }
         }
       }
@@ -3663,7 +3663,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "取消..."
+            "value" : "取消中…"
           }
         }
       }
@@ -3725,7 +3725,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "案件敏感"
+            "value" : "大小写敏感"
           }
         }
       }
@@ -3967,7 +3967,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查看本月免费计划的剩余点数。"
+            "value" : "查看本月免费计划的剩余额度。"
           }
         }
       }
@@ -4001,7 +4001,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "选择要在该成绩单上执行的提示"
+            "value" : "选择要在该转录文本上执行的 Prompt"
           }
         }
       }
@@ -4293,7 +4293,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "清除记录并重新启动"
+            "value" : "清除转录文本并重新启动"
           }
         }
       }
@@ -4327,7 +4327,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "点击 \"选择保存文件夹 \"按钮开始操作"
+            "value" : "点击 \"选择保存文件夹 \"按钮以开始"
           }
         }
       }
@@ -4423,7 +4423,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "密切支持"
+            "value" : "关闭支持"
           }
         }
       }
@@ -4451,7 +4451,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭调整时间戳屏幕"
+            "value" : "关闭调整时间戳窗口"
           }
         }
       }
@@ -4479,7 +4479,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭批次记录誊本视图"
+            "value" : "关闭批量转录窗口"
           }
         }
       }
@@ -4513,7 +4513,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭云转录视图"
+            "value" : "关闭云转录窗口"
           }
         }
       }
@@ -4547,7 +4547,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭导出屏幕"
+            "value" : "关闭导出窗口"
           }
         }
       }
@@ -4615,7 +4615,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭模型视图"
+            "value" : "关闭模型窗口"
           }
         }
       }
@@ -4677,7 +4677,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭记录视图"
+            "value" : "关闭录制窗口"
           }
         }
       }
@@ -4705,7 +4705,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭 \"报告问题 \"屏幕"
+            "value" : "关闭 \"报告问题\" 窗口"
           }
         }
       }
@@ -4739,7 +4739,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭路线图视图"
+            "value" : "关闭路线图窗口"
           }
         }
       }
@@ -4767,7 +4767,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭扬声器视图"
+            "value" : "关闭扬声器窗口"
           }
         }
       }
@@ -4801,7 +4801,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "关闭支持屏幕"
+            "value" : "关闭 “支持” 窗口"
           }
         }
       }
@@ -5021,7 +5021,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "确认您的成绩单将发送至 Anthropic 服务器"
+            "value" : "确认您的转录文本将发送至 Anthropic 服务器"
           }
         }
       }
@@ -5055,7 +5055,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "确认您的成绩单将发送至 OpenAI 服务器"
+            "value" : "确认您的转录文本将发送至 OpenAI 服务器"
           }
         }
       }
@@ -5201,7 +5201,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "转换..."
+            "value" : "转换中…"
           }
         }
       }
@@ -5229,7 +5229,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制的"
+            "value" : "已复制"
           }
         }
       }
@@ -5263,7 +5263,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "拷贝"
+            "value" : "复制"
           }
         }
       }
@@ -5319,7 +5319,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制原始成绩单"
+            "value" : "复制原始转录文本"
           }
         }
       }
@@ -5403,7 +5403,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将成绩单复制到剪贴板"
+            "value" : "将转录文本复制到剪贴板"
           }
         }
       }
@@ -5437,7 +5437,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "副本誊本"
+            "value" : "复制转录文本"
           }
         }
       }
@@ -5561,7 +5561,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法检索学分"
+            "value" : "无法获得额度"
           }
         }
       }
@@ -5651,7 +5651,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自定义忽略区段"
+            "value" : "自定义忽略段落"
           }
         }
       }
@@ -5685,7 +5685,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自定义提示"
+            "value" : "自定义 Prompt"
           }
         }
       }
@@ -5719,7 +5719,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解码..."
+            "value" : "解码中..."
           }
         }
       }
@@ -5821,7 +5821,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认忽略区段"
+            "value" : "默认忽略段落"
           }
         }
       }
@@ -5855,7 +5855,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "对于支持的格式，默认使用 WhisperKit 的音频流水线。对于其他格式，将退回到 MacWhisper。"
+            "value" : "对于支持的格式，默认使用 WhisperKit 的音频流水线。对于其他格式，将回退到 MacWhisper。"
           }
         }
       }
@@ -5917,7 +5917,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "删除提示"
+            "value" : "删除 Prompt"
           }
         }
       }
@@ -5973,7 +5973,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "人工智能听写提示"
+            "value" : "人工智能听写 Prompt"
           }
         }
       }
@@ -6029,7 +6029,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "听写提示"
+            "value" : "听写 Prompt"
           }
         }
       }
@@ -6097,7 +6097,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不同的转录模型有不同的折衷方法。较大的模型更准确，但速度较慢。"
+            "value" : "不同的转录模型有不同的权衡。较大的模型更准确，但速度较慢。"
           }
         }
       }
@@ -6187,7 +6187,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "摒弃转录"
+            "value" : "丢弃转录文本"
           }
         }
       }
@@ -6379,7 +6379,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "现在不要启动"
+            "value" : "现在不要激活"
           }
         }
       }
@@ -6435,7 +6435,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "嘟"
+            "value" : "Dote"
           }
         }
       }
@@ -6537,7 +6537,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "至少下载一个模型，以便开始使用"
+            "value" : "至少下载一个模型以开始使用"
           }
         }
       }
@@ -6723,7 +6723,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将每个发言人的音频文件放入此处，它们将自动转录，并将每个发言人的对话分开。请注意，此功能仍处于测试阶段，因此可能会遇到问题。"
+            "value" : "将每个主持人的音频文件放入此处，它们将自动转录，并将每个主持人的对话分开。请注意，此功能仍处于测试阶段，因此可能会遇到问题。"
           }
         }
       }
@@ -7253,7 +7253,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "错误恢复购买"
+            "value" : "恢复购买时出错"
           }
         }
       }
@@ -7393,7 +7393,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "错误：无法从网络检索订阅状态"
+            "value" : "错误：无法从网络获得订阅状态"
           }
         }
       }
@@ -7421,7 +7421,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "估计费用"
+            "value" : "预计费用"
           }
         }
       }
@@ -7617,7 +7617,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全部出口"
+            "value" : "导出所有"
           }
         }
       }
@@ -7741,7 +7741,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导出成绩单"
+            "value" : "导出转录文本"
           }
         }
       }
@@ -7769,7 +7769,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用所选选项将记录誊本导出为所选格式"
+            "value" : "用所选选项导出转录文本为所选格式"
           }
         }
       }
@@ -7853,7 +7853,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "出口..."
+            "value" : "导出…"
           }
         }
       }
@@ -8067,7 +8067,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "填写 Anthropic API 密钥，启用克劳德功能。"
+            "value" : "填写 Anthropic API 密钥，启用 Claude 功能。"
           }
         }
       }
@@ -8275,7 +8275,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完工于"
+            "value" : "完成于"
           }
         }
       }
@@ -8359,7 +8359,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全文"
+            "value" : "完整转录文本"
           }
         }
       }
@@ -8483,7 +8483,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全球"
+            "value" : "全局"
           }
         }
       }
@@ -8551,7 +8551,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "聚焦全球转录"
+            "value" : "全局转录文本（类似 Spotlight）"
           }
         }
       }
@@ -8697,7 +8697,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "贪婪"
+            "value" : "贪心"
           }
         }
       }
@@ -8923,7 +8923,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如何在成绩单中显示分段"
+            "value" : "如何在转录文本中显示分段"
           }
         }
       }
@@ -9047,7 +9047,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果您的成绩单有跳过或缺失的部分。"
+            "value" : "如果您的转录文本有跳过或缺失的部分。"
           }
         }
       }
@@ -9075,7 +9075,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果您的成绩单中有跳过的部分。"
+            "value" : "如果您的转录文本中有跳过的部分。"
           }
         }
       }
@@ -9109,7 +9109,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果您在转录中看到的文字与所说内容完全不符，您可能会产生所谓的幻觉。"
+            "value" : "如果您在转录中看到的文字与所说内容完全不符，您可能会产生所谓的 “幻觉”。"
           }
         }
       }
@@ -9177,7 +9177,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果您发现成绩单中有一个（或多个）片段重复。"
+            "value" : "如果您发现转录结果中有一个（或多个）片段重复。"
           }
         }
       }
@@ -9205,7 +9205,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如果要使用付费的 DeepL API，请启用此切换。"
+            "value" : "如果要使用付费的 DeepL API，请启用此开关。"
           }
         }
       }
@@ -9233,7 +9233,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "忽略不需要的区段"
+            "value" : "忽略不需要的段落"
           }
         }
       }
@@ -9267,7 +9267,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "被忽略的部分"
+            "value" : "忽略的段落"
           }
         }
       }
@@ -9781,7 +9781,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载应用程序商店"
+            "value" : "正在加载应用程序商店"
           }
         }
       }
@@ -9809,7 +9809,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "装载应用"
+            "value" : "正在加载应用"
           }
         }
       }
@@ -9865,7 +9865,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载支持"
+            "value" : "正在加载支持"
           }
         }
       }
@@ -10947,7 +10947,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新提示"
+            "value" : "新 Prompt"
           }
         }
       }
@@ -11291,7 +11291,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有包含\"\"的记录片段"
+            "value" : "没有包含\"\"的转录片段"
           }
         }
       }
@@ -11348,7 +11348,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无选择"
+            "value" : "未选择"
           }
         }
       }
@@ -11699,7 +11699,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开模型屏幕"
+            "value" : "打开模型窗口"
           }
         }
       }
@@ -11817,7 +11817,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开 MacWhisper Pro 的购买界面，使用全局"
+            "value" : "打开 MacWhisper Pro 的购买界面以使用全局设置"
           }
         }
       }
@@ -11913,7 +11913,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开设置，添加 API 密钥"
+            "value" : "打开设置以添加 API 密钥"
           }
         }
       }
@@ -11947,7 +11947,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开 \"系统设置 \"应用程序，授予辅助功能权限"
+            "value" : "打开 \"系统设置\" 应用程序以授予辅助功能权限"
           }
         }
       }
@@ -11975,7 +11975,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "打开升级到专业版屏幕"
+            "value" : "打开升级到专业版窗口"
           }
         }
       }
@@ -12511,7 +12511,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "誊写完成时播放轻微的声音"
+            "value" : "转录完成时播放轻微的提示音"
           }
         }
       }
@@ -12929,7 +12929,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "专业"
+            "value" : "专业版"
           }
         }
       }
@@ -12997,7 +12997,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "专业要求"
+            "value" : "Pro 需要"
           }
         }
       }
@@ -13099,7 +13099,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提示标题"
+            "value" : "Prompt 标题"
           }
         }
       }
@@ -13127,7 +13127,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提示"
+            "value" : "Prompts"
           }
         }
       }
@@ -13155,7 +13155,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提供初始提示，引导轻声细语"
+            "value" : "提供初始 Prompt 来指导 Whisper"
           }
         }
       }
@@ -13543,7 +13543,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "推荐机型"
+            "value" : "推荐模型"
           }
         }
       }
@@ -13881,7 +13881,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刷新剩余学分"
+            "value" : "刷新剩余额度"
           }
         }
       }
@@ -13971,7 +13971,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "删除所有全球替换项目"
+            "value" : "删除所有全局替换项目"
           }
         }
       }
@@ -14411,7 +14411,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全部更换"
+            "value" : "全部替换"
           }
         }
       }
@@ -14445,7 +14445,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "替换该字符串在誊本中的所有出现次数"
+            "value" : "替换该字符串在转录文本中的所有出现次数"
           }
         }
       }
@@ -14479,7 +14479,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "替换记录誊本中出现的第一个字符串"
+            "value" : "替换转录文本中出现的第一个字符串"
           }
         }
       }
@@ -14541,7 +14541,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更换"
+            "value" : "替换"
           }
         }
       }
@@ -14941,7 +14941,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢复自动滚屏"
+            "value" : "恢复自动滚动"
           }
         }
       }
@@ -15201,7 +15201,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "角色为零"
+            "value" : "角色为无"
           }
         }
       }
@@ -15371,7 +15371,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将视频保存为耳语文件"
+            "value" : "将视频保存为 Whisper 文件"
           }
         }
       }
@@ -15399,7 +15399,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "节约..."
+            "value" : "保存中..."
           }
         }
       }
@@ -15591,7 +15591,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在成绩单中搜索"
+            "value" : "在转录文本中搜索"
           }
         }
       }
@@ -15777,7 +15777,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "选择型号"
+            "value" : "选择模型"
           }
         }
       }
@@ -15935,7 +15935,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "选择要转录的文件中使用的语言，并添加自定义提示以指导转录过程（可选）。"
+            "value" : "选择要转录的文件中使用的语言，并添加自定义 Prompt 以指导转录过程（可选）。"
           }
         }
       }
@@ -15991,7 +15991,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "选定麦克风"
+            "value" : "当前麦克风"
           }
         }
       }
@@ -16277,7 +16277,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "显示人工智能选项"
+            "value" : "显示 AI 选项"
           }
         }
       }
@@ -16305,7 +16305,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "显示所有型号"
+            "value" : "显示所有模型"
           }
         }
       }
@@ -16879,7 +16879,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "显示原始记录"
+            "value" : "显示原始转录文本"
           }
         }
       }
@@ -16913,7 +16913,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同时出示原稿和译稿。"
+            "value" : "同时显示原始转录文本和翻译文本。"
           }
         }
       }
@@ -17161,7 +17161,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注册订阅 MacWhisper 新闻通讯！"
+            "value" : "注册订阅 MacWhisper 新闻！"
           }
         }
       }
@@ -17375,7 +17375,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发言。记录。转录。"
+            "value" : "说话。录音。转录。"
           }
         }
       }
@@ -17561,7 +17561,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按句子分割誊本"
+            "value" : "按句子分割转录文本"
           }
         }
       }
@@ -18079,7 +18079,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "战略"
+            "value" : "策略"
           }
         }
       }
@@ -18231,7 +18231,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "提交您的自定义提示"
+            "value" : "提交您的自定义 Prompt"
           }
         }
       }
@@ -18321,7 +18321,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "超级准确的成绩单"
+            "value" : "超级准确的转录"
           }
         }
       }
@@ -18433,7 +18433,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换到所有 Whisper 型号列表"
+            "value" : "切换到所有 Whisper 模型列表"
           }
         }
       }
@@ -18461,7 +18461,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换到为您的设备推荐的 Whisper 型号列表"
+            "value" : "切换到为您的设备推荐的 Whisper 模型列表"
           }
         }
       }
@@ -18709,7 +18709,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@\"模型下载失败\n\n%2$@"
+            "value" : "%1$@\" 模型下载失败\n\n%2$@"
           }
         }
       }
@@ -18737,7 +18737,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "除非为您的成绩单指定了发言人，否则 \"发言人段落 \"选项不可用。"
+            "value" : "除非为您的转录文本指定了发言人，否则 \"发言人段落 \"选项不可用。"
           }
         }
       }
@@ -18833,7 +18833,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "波束搜索解码器的计算量是贪婪解码器的 [波束大小] 倍"
+            "value" : "束搜索解码器的计算量是贪心解码器的 [波束大小] 倍"
           }
         }
       }
@@ -18963,7 +18963,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "没有活动耳语模型集，您应该选择使用哪种模型"
+            "value" : "没有启用的 Whisper 模型，您应该选择使用哪种模型"
           }
         }
       }
@@ -19103,7 +19103,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "根据质量和设备性能，为您推荐以下型号"
+            "value" : "根据质量和设备性能，为您推荐以下模型"
           }
         }
       }
@@ -19131,7 +19131,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "建议使用这些型号，以提供尽可能高的精度"
+            "value" : "建议使用这些模型，以提供尽可能高的精度"
           }
         }
       }
@@ -19187,7 +19187,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这些机型经过调整，运行速度更快"
+            "value" : "这些模型经过调整，运行速度更快"
           }
         }
       }
@@ -19491,7 +19491,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该模型目前处于活动状态"
+            "value" : "该模型目前处于启用状态"
           }
         }
       }
@@ -19881,7 +19881,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要使用提示功能，需要设置 OpenAI API 密钥，这样就可以通过 ChatGPT 查询听写内容。"
+            "value" : "要使用 Prompt，需要设置 OpenAI API 密钥，这样就可以通过 ChatGPT 查询听写内容。"
           }
         }
       }
@@ -20331,7 +20331,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "转录 YouTube URL"
+            "value" : "转录 YouTube URLs"
           }
         }
       }
@@ -20365,7 +20365,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "转录 %1$lld/%2$lld..."
+            "value" : "转录中 %1$lld/%2$lld..."
           }
         }
       }
@@ -20393,7 +20393,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "转录..."
+            "value" : "转录中…"
           }
         }
       }
@@ -20427,7 +20427,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "转录... %1$@ %2$@"
+            "value" : "转录中… %1$@ %2$@"
           }
         }
       }
@@ -20489,7 +20489,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复制到剪贴板"
+            "value" : "已将转录文本复制到剪贴板"
           }
         }
       }
@@ -20585,7 +20585,14 @@
       }
     },
     "Transcriptions will be translated to English because you enabled the translate to English feature" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转录文本将被翻译为英文，因为您开启了 “翻译至英文” 功能"
+          }
+        }
+      }
     },
     "Translate" : {
       "localizations" : {
@@ -20650,7 +20657,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "翻译完整的成绩单"
+            "value" : "翻译完整的妆撸文本"
           }
         }
       }
@@ -20712,13 +20719,20 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "将记录誊本翻译成另一种语言"
+            "value" : "将转录文本翻译成另一种语言"
           }
         }
       }
     },
     "Translate To English Enabled" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已开启 “翻译至英文”"
+          }
+        }
+      }
     },
     "Translate to..." : {
       "localizations" : {
@@ -20777,7 +20791,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "翻译成英文"
+            "value" : "翻译至英文"
           }
         }
       }
@@ -21037,7 +21051,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "涡轮"
+            "value" : "Turbo"
           }
         }
       }
@@ -21065,7 +21079,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在此输入您的提示"
+            "value" : "在此输入您的 Prompt"
           }
         }
       }
@@ -21212,7 +21226,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解锁全球"
+            "value" : "解锁全局"
           }
         }
       }
@@ -21246,7 +21260,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用专业版解锁全球转录功能"
+            "value" : "使用专业版解锁全局转录功能"
           }
         }
       }
@@ -21342,7 +21356,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可提供的更新"
+            "value" : "有可提供的更新"
           }
         }
       }
@@ -21376,7 +21390,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "升级至终身"
+            "value" : "升级至终身版"
           }
         }
       }
@@ -21630,7 +21644,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用蒸馏模型"
+            "value" : "使用 Distil 模型"
           }
         }
       }
@@ -21658,7 +21672,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用闪光灯"
+            "value" : "使用 Flash Attention"
           }
         }
       }
@@ -21714,7 +21728,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用 WhisperKit 音频管道"
+            "value" : "使用 WhisperKit 音频流水线"
           }
         }
       }
@@ -21770,7 +21784,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用此功能可将整个副本发送到 Anthropic 的服务器上，这意味着它不会只停留在你的 Mac 上。"
+            "value" : "使用此功能可将整个副本发送到 Anthropic 的服务器上，这意味着它不会只存在于您的 Mac 上。"
           }
         }
       }
@@ -21798,7 +21812,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用此功能可将您的整个副本发送到 OpenAI 的服务器，这意味着它不会只停留在您的 Mac 上。"
+            "value" : "使用此功能可将您的整个副本发送到 OpenAI 的服务器，这意味着它不会只存在于您的 Mac 上。"
           }
         }
       }
@@ -22018,7 +22032,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "当音频质量较差或音量过低时，Whisper 可能会错误地将重复的片段添加到记录誊本中。启用此功能后，您就可以防止这些重复片段出现在最终的记录誊本中。但请注意，如果同一句子确实连续说了两次，该功能也会删除重复的句子。"
+            "value" : "当音频质量较差或音量过低时，Whisper 可能会错误地将重复的片段添加到转录文本中。启用此功能后，您就可以防止这些重复片段出现在最终的转录文本中。但请注意，如果同一句子确实连续说了两次，该功能也会删除重复的句子。"
           }
         }
       }
@@ -22148,7 +22162,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "低语"
+            "value" : "Whisper"
           }
         }
       }
@@ -22210,7 +22224,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Whisper 可以自动将不同语言的誊本输出翻译成英语。请注意，每份记录誊本的翻译质量可能不同。"
+            "value" : "Whisper 可以自动将不同语言的转录文本输出翻译成英语。请注意，每份转录文本的翻译质量可能不同。"
           }
         }
       }
@@ -22272,7 +22286,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "低声发动机"
+            "value" : "Whisper 引擎"
           }
         }
       }
@@ -22300,7 +22314,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "耳语机型"
+            "value" : "Whisper 模型"
           }
         }
       }
@@ -22328,7 +22342,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "耳语提示"
+            "value" : "Whisper Prompt"
           }
         }
       }
@@ -22390,7 +22404,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "耳语套件"
+            "value" : "WhisperKit"
           }
         }
       }
@@ -22570,7 +22584,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您可以手动将发言人添加到您的记录誊本中。在此列表中添加您想选择的发言人，然后右键单击您想用该发言人标记的一个或多个片段。"
+            "value" : "您可以手动将发言人添加到您的转录文本中。在此列表中添加您想选择的发言人，然后右键单击您想用该发言人标记的一个或多个片段。"
           }
         }
       }
@@ -22598,7 +22612,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "只有在成绩单中指定了发言者，才能启用发言者姓名"
+            "value" : "只有在转录文本中指定了发言者，才能启用发言者姓名"
           }
         }
       }
@@ -22654,7 +22668,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您已经录制了一段录音，您确定要放弃这段录音吗？"
+            "value" : "您已经录制了一段录音，确定丢弃？"
           }
         }
       }
@@ -22716,7 +22730,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用新的 Large V3 模式时，您可能会在记录誊本中看到大量重复内容。如果出现这种情况，请使用常规的 Large 模式。"
+            "value" : "使用新的 Large V3 模式时，您可能会在转录文本中看到大量重复内容。如果出现这种情况，请使用常规的 Large 模式。"
           }
         }
       }
@@ -22840,7 +22854,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您很快就可以制作第一份成绩单了！请从以下列表中选择一个语言模型，以便进行设置。较大的模型更准确，但速度较慢。"
+            "value" : "您很快就可以制作第一份转录文本了！请从以下列表中选择一个语言模型，以便进行设置。较大的模型更准确，但速度较慢。"
           }
         }
       }
